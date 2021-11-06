@@ -1,1 +1,1 @@
-def abcd (){}
+print "Hello World!\n"
